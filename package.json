@@ -1,0 +1,20 @@
+{
+  "name": "registro-attendance",
+  "version": "1.0.0",
+  "description": "aplicacion de asistencia para estudiantes examen parcial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanSe320/registro-attendance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanSe320/registro-attendance/issues"
+  },
+  "homepage": "https://github.com/JuanSe320/registro-attendance#readme"
+}
