@@ -1,0 +1,5 @@
+$ docker run -d \
+    -e POSTGRES_PASSWORD=porlahorda23320 \
+    -e PGDATA=/var/lib/postgresql/data/pgdata \
+    -v /Usuarios/Juan Sebastian/Escritorio/psqldata:/var/lib/postgresql/data \
+    postgres
